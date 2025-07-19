@@ -1,0 +1,22 @@
+# Employee Salary Prediction
+
+This project is a **Streamlit web app** that predicts employee salaries based on their years of experience using **Linear Regression**.
+
+### **Features:**
+- Upload CSV dataset (`YearsExperience`, `Salary`)
+- Train and test a machine learning model
+- Predict salary for new inputs
+- Display accuracy metrics (R2 Score, RMSE)
+- User-friendly web interface
+
+### **Technologies Used:**
+- Python  
+- Streamlit  
+- Pandas  
+- NumPy  
+- Scikit-learn
+
+### **Purpose:**
+This project simplifies HR analytics by providing an easy tool to predict employee salaries, helping in compensation planning and budgeting.
+
+---
